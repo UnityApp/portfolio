@@ -1,7 +1,7 @@
 var RankedProjects=[
     Projects.Details.Fallball,
     Projects.Details.SpaceShooter,
-    Projects.Details.ChemicalCarriageway,
+    Projects.Details.LatestStatus,
     Projects.Details.MREncyclopedia,
     Projects.Details.Snake3D,
     Projects.Details.Gameplay,
