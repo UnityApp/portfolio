@@ -9,11 +9,11 @@ const Projects = {
             EmbedVideoLinkID: "",
             NoOfProjectImages: 1
         },
-        FALL BALL: {
-            ID: "WorkInProgress",
-            Name: "Work In Progress",
-            SmallDescription: "iOS, Android, AI",
-            LargeDescription: "Have you heard my Under Construction joke?<br>It's not done yet",
+        Fallball: {
+            ID: "fallball",
+            Name: "FallBall",
+            SmallDescription: "Android, Unity3D",
+            LargeDescription: "FallBall is a 3d arcade game where players smash, bump and bounce.",
             NoOfProjectImages: 1
         },
         TileVisualiser: {
