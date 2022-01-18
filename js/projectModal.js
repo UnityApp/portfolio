@@ -3,7 +3,7 @@ var RankedProjects=[
     Projects.Details.SpaceShooter,
     Projects.Details.LatestStatus,
     Projects.Details.MREncyclopedia,
-    Projects.Details.Snake3D,
+    Projects.Details.JNews,
     Projects.Details.Gameplay,
     Projects.Details.ShiroDash,
     Projects.Details.RiTE,
