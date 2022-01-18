@@ -14,7 +14,7 @@ const Projects = {
             Name: "Fall Ball",
             SmallDescription: "Android, Unity3D",
             LargeDescription: "FallBall is a 3d arcade game where players smash, bump and bounce.",
-            NoOfProjectImages: 3
+            NoOfProjectImages: 2
         },
         SpaceShooter: {
             ID: "SpaceShooter",
@@ -23,7 +23,7 @@ const Projects = {
             LargeDescription: "Galaxy Shooter is a game of the Galaxy space shooting type.<br>",
             DownloadLink: "https://play.google.com/store/apps/details?id=com.DJ.SpaceShooter",
             EmbedVideoLinkID: "",
-            NoOfProjectImages: 2
+            NoOfProjectImages: 1
         },
         LatestStatus: {
             ID: "LatestStatus",
