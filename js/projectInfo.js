@@ -14,16 +14,16 @@ const Projects = {
             Name: "Fall Ball",
             SmallDescription: "Android, Unity3D",
             LargeDescription: "FallBall is a 3d arcade game where players smash, bump and bounce.",
-            NoOfProjectImages: 1
+            NoOfProjectImages: 3
         },
-        TileVisualiser: {
-            ID: "TileVisualiser",
-            Name: "Tile Visualiser",
-            SmallDescription: "Shaders, Occulus Go, Unity3D",
-            LargeDescription: ' • Wrote Surface Shader from scratch in Cg/HLSL (Unity3D) for VR Occulus Go build<br> • Proposed most opptimised way to approach a problem keeping in mind the target platform<br> • Set-up Unity3D for most optimised yet best quality settings<br> • Helped to build realistic Tile Visualiser with dynamic tiles and patterns with different grout<br>',
-            DownloadLink: "",
+        SpaceShooter: {
+            ID: "SpaceShooter",
+            Name: "Space Shooter",
+            SmallDescription: "Galaxy Shooter is a game of the Galaxy space shooting type",
+            LargeDescription: "",
+            DownloadLink: "https://play.google.com/store/apps/details?id=com.DJ.SpaceShooter",
             EmbedVideoLinkID: "",
-            NoOfProjectImages: 0
+            NoOfProjectImages: 2
         },
         ShiroDash: {
             ID: "ShiroDash",
