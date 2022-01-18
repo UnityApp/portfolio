@@ -12,14 +12,14 @@ const Projects = {
         Fallball: {
             ID: "Fallball",
             Name: "Fall Ball",
-            SmallDescription: "Android, Unity3D",
+            SmallDescription: "Game, Unity3D, C#",
             LargeDescription: "FallBall is a 3d arcade game where players smash, bump and bounce.",
             NoOfProjectImages: 2
         },
         SpaceShooter: {
             ID: "SpaceShooter",
             Name: "Space Shooter",
-            SmallDescription: "Android, Unity",
+            SmallDescription: "Game, Unity, C#",
             LargeDescription: "Galaxy Shooter is a game of the Galaxy space shooting type.<br>",
             DownloadLink: "https://play.google.com/store/apps/details?id=com.DJ.SpaceShooter",
             EmbedVideoLinkID: "",
