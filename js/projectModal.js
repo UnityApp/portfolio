@@ -2,12 +2,12 @@ var RankedProjects=[
     Projects.Details.Fallball,
     Projects.Details.SpaceShooter,
     Projects.Details.LatestStatus,
-    Projects.Details.MREncyclopedia,
+    Projects.Details.CRoll,
     Projects.Details.JNews,
-    Projects.Details.Gameplay,
-    Projects.Details.ShiroDash,
-    Projects.Details.RiTE,
-    Projects.Details.NearbyConnections
+    //Projects.Details.Gameplay,
+    //Projects.Details.ShiroDash,
+    //Projects.Details.RiTE,
+    //Projects.Details.NearbyConnections
 ];
 //Functions
 SetPorfolioElements();
