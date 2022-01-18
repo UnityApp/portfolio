@@ -11,7 +11,7 @@ const Projects = {
         },
         Fallball: {
             ID: "Fallball",
-            Name: "FallBall",
+            Name: "Fall Ball",
             SmallDescription: "Android, Unity3D",
             LargeDescription: "FallBall is a 3d arcade game where players smash, bump and bounce.",
             NoOfProjectImages: 1
