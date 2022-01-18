@@ -9,7 +9,7 @@ const Projects = {
             EmbedVideoLinkID: "",
             NoOfProjectImages: 1
         },
-        WorkInProgress: {
+        FALL BALL: {
             ID: "WorkInProgress",
             Name: "Work In Progress",
             SmallDescription: "iOS, Android, AI",
