@@ -32,7 +32,7 @@ const Projects = {
             LargeDescription: "Contains more then 50000+ Hindi and English Language Status for all Social Apps.<br>",
             DownloadLink: "https://play.google.com/store/apps/details?id=com.ashrock.subhash.lateststatus2k19",
             EmbedVideoLinkID: "",
-            NoOfProjectImages: 8
+            NoOfProjectImages: 3
         },
         Snake3D: {
             ID: "Snake3D",
